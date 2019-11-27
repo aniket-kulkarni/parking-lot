@@ -1,0 +1,32 @@
+[
+  {
+    "carNo": "KA25 EG0622",
+    "color": "Red",
+    "slot": 1,
+    "dateTime": "24 May 2019, 3:29PM"
+  },
+  {
+    "carNo": "KA25 EG0623",
+    "color": "green",
+    "slot": 2,
+    "dateTime": "24 May 2019, 3:29PM"
+  },
+  {
+    "carNo": "KA25 EG0624",
+    "color": "blue",
+    "slot": 3,
+    "dateTime": "24 May 2019, 3:29PM"
+  },
+  {
+    "carNo": "KA25 EG0625",
+    "color": "red",
+    "slot": 4,
+    "dateTime": "24 May 2019, 3:29PM"
+  },
+  {
+    "carNo": "KA25 EG0626",
+    "color": "blue",
+    "slot": 5,
+    "dateTime": "24 May 2019, 3:29PM"
+  }
+];
