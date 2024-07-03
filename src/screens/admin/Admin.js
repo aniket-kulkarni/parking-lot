@@ -41,6 +41,7 @@ export class Admin extends React.Component {
   }
 
   render() {
+    console.log('testing admin');
     return (
       <div className="admin">
         <div className='input-wrap'>
